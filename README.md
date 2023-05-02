@@ -1,7 +1,9 @@
 
 # Input-Validation
+REST api that supports functionality such as GET, POST, and PUT.
 
-Accepted Phone Number format:
+# Accepted input format:
+
 
  
 
