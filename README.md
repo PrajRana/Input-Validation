@@ -3,7 +3,7 @@
 REST api that supports functionality such as GET, POST, and PUT.
 
 # Accepted input format:
-## Name: 
+## Phone Number: 
 +X(XXX)XXX-XXXX
 
 
